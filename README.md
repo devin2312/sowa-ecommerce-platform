@@ -1,4 +1,4 @@
-SOWA E-Commerce Web Application – Digital Wall Art Shop
+# SOWA E-Commerce Web Application – Digital Wall Art Shop
 
 This project is a simple E-Commerce Web Application developed as an individual assignment for the Service Oriented Web Applications (SOWA) module.
 
